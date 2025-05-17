@@ -7,7 +7,7 @@
 | Number of Attributes: | 17     |
 
 ## Tasks Performed:
-![image](https://drive.google.com/file/d/1iBGEXvtPBKuT-BsMk0i8XTVj5BgfOUd1/view?usp=sharing)
+![image](Screenshot 2025-05-17 074101)
 
 
 ## Result:
@@ -27,4 +27,4 @@ S9	|0.903333	|rbf	|100	|0.1|
 S10	|0.905	|rbf	|100	|0.1|
 
 ### Convergence graph of best SVM i.e. Sample S5
-![image](https://drive.google.com/file/d/1Cgj4l-AqR4ETI9F110-lk_CCnIsS-UAT/view?usp=sharing)
+![image](Screenshot 2025-05-17 073938)
